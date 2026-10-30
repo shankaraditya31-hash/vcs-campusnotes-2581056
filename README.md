@@ -12,3 +12,11 @@ To understand and practice Git and GitHub workflows.
 - Branching
 - Pull Requests
 - Version Control
+
+## Learning Goals
+
+- Understand Git workflows.
+- Practice branching and merging.
+- Learn GitHub collaboration.
+- Understand remote repositories.
+
